@@ -1,1 +1,1 @@
-![Buttons_Screenshot](ScreenShot.jpg?raw=true "Image of Buttons")
+![Buttons_Screenshot](ScreenShot.jpg "Image of Buttons")

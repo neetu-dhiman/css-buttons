@@ -1,1 +1,3 @@
-![Buttons_Screenshot](ScreenShot.jpg)
+Image of all the buttons
+
+![Buttons_Screenshot](ScreenShot.png)
